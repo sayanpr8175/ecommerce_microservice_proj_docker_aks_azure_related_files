@@ -1,0 +1,1 @@
+# ecommerce_microservice_proj_docker_aks_azure_related_files
